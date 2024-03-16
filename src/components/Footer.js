@@ -13,8 +13,8 @@ const Footer = () => {
             </Link>
           </li>
           <li className="nav-item">
-            <Link to={"/"} className="nav-link px-2 text-muted">
-              Layihə haqda
+            <Link to={"/about"} className="nav-link px-2 text-muted">
+              Layihə haqqında
             </Link>
           </li>
           <li className="nav-item">
@@ -24,18 +24,18 @@ const Footer = () => {
           </li>
           <li className="nav-item">
             <Link to={"/"} className="nav-link px-2 text-muted">
-              Saytın xəritəsi
+              Məxfilik siyasəti
             </Link>
           </li>
           <li className="nav-item">
-            <Link to={"/"} className="nav-link px-2 text-muted">
-              Məxfilik siyasəti
+            <Link to={"/contact"} className="nav-link px-2 text-muted">
+              Bizimlə əlaqə
             </Link>
           </li>
         </ul>
         <p className="text-center text-muted">
           &copy; {new Date().getFullYear()} {companyData[0].company} | Bütün
-          hüquqlar qorunur
+          Hüquqlar Qorunur
         </p>
       </footer>
     </div>

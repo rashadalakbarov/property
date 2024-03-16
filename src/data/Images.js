@@ -1,7 +1,7 @@
 // icons
-import header_logo from "../img/header-logo.svg";
+import error_404 from "../images/icon/404_error.svg";
 
 // eslint-disable-next-line import/no-anonymous-default-export
 export default {
-  header_logo,
+  error_404,
 };

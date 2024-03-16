@@ -58,7 +58,7 @@ const Header = () => {
                 </button>
               </form>
               <a href="#" className="btn btn-success mx-3">
-                <i class="fa-solid fa-plus me-1"></i> Elan yerləşdir
+                <i className="fa-solid fa-plus me-1"></i> Elan yerləşdir
               </a>
               <ul className="list-unstyled mb-0">
                 <li className="nav-item dropdown text-decoration-none ms-2">

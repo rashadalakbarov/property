@@ -7,6 +7,9 @@ import Footer from "./components/Footer";
 
 // pages
 import Home from "./pages/Home";
+import About from "./pages/About";
+import Contact from "./pages/Contact";
+import Page404 from "./pages/Page404";
 
 function App() {
   return (
@@ -15,6 +18,9 @@ function App() {
 
       <Routes>
         <Route path="/" index element={<Home />} />
+        <Route path="/about" index element={<About />} />
+        <Route path="/contact" index element={<Contact />} />
+        <Route path="/*" index element={<Page404 />} />
       </Routes>
 
       <Footer />

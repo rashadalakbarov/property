@@ -1,0 +1,1058 @@
+[
+    {
+        "city_id": 1,
+        "city_name": "Ağcabədi",        
+        "districts":[]
+    },
+    {
+        "city_id": 2,
+        "city_name": "Ağdam",        
+        "districts":[
+            {
+                "district_id": 74,
+                "district_name": "Ağdam",
+                "city_id": 2,
+                "settlements":[ 
+                    {
+                        "settlement_id": 101,
+                        "settlement_name": "Quzanlı qəs",
+                        "district_id": 74
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "city_id": 3,
+        "city_name": "Ağdaş",        
+        "districts":[]
+    },
+    {
+        "city_id": 4,
+        "city_name": "Ağstafa",        
+        "districts":[]
+    },
+    {
+        "city_id": 5,
+        "city_name": "Ağsu",        
+        "districts":[]
+    },
+    {
+        "city_id": 6,
+        "city_name": "Astara",        
+        "districts":[
+            {
+                "district_id": 75,
+                "district_name": "Astara",
+                "city_id": 6,
+                "settlements":[]
+            }, 
+            {
+                "district_id": 76,
+                "district_name": "Kəngərli",
+                "city_id": 6,
+                "settlements":[]
+            }
+        ]
+    },
+    {
+        "city_id": 7,
+        "city_name": "Babək",        
+        "districts":[]
+    },
+    {
+        "city_id": 8,
+        "city_name": "Bakı",        
+        "districts":[
+            {
+                "district_id": 77,
+                "district_name": "Abşeron",
+                "city_id": 8,
+                "settlements":[
+                    {
+                        "settlement_id": 102,
+                        "settlement_name": "Ceyranbatan",
+                        "district_id": 77
+                    }, 
+                    {
+                        "settlement_id": 103,
+                        "settlement_name": "Çiçək",
+                        "district_id": 77
+                    }, 
+                    {
+                        "settlement_id": 104,
+                        "settlement_name": "Digah",
+                        "district_id": 77
+                    }, 
+                    {
+                        "settlement_id": 105,
+                        "settlement_name": "Fatmayı",
+                        "district_id": 77
+                    }, 
+                    {
+                        "settlement_id": 106,
+                        "settlement_name": "Görədil",
+                        "district_id": 77
+                    }, 
+                    {
+                        "settlement_id": 107,
+                        "settlement_name": "Hökməli",
+                        "district_id": 77
+                    }, 
+                    {
+                        "settlement_id": 108,
+                        "settlement_name": "Köhnə Corat",
+                        "district_id": 77
+                    }, 
+                    {
+                        "settlement_id": 109,
+                        "settlement_name": "Qobu",
+                        "district_id": 77
+                    }, 
+                    {
+                        "settlement_id": 110,
+                        "settlement_name": "Babək",
+                        "district_id": 77
+                    }, 
+                    {
+                        "settlement_id": 111,
+                        "settlement_name": "Masazır",
+                        "district_id": 77
+                    }, 
+                    {
+                        "settlement_id": 112,
+                        "settlement_name": "Mehdiabad",
+                        "district_id": 77
+                    }, 
+                    {
+                        "settlement_id": 113,
+                        "settlement_name": "Məmmədli",
+                        "district_id": 77
+                    }, 
+                    {
+                        "settlement_id": 114,
+                        "settlement_name": "Novxanı",
+                        "district_id": 77
+                    }, 
+                    {
+                        "settlement_id": 115,
+                        "settlement_name": "Pirəkəşkül",
+                        "district_id": 77
+                    }, 
+                    {
+                        "settlement_id": 116,
+                        "settlement_name": "Saray",
+                        "district_id": 77
+                    }, 
+                    {
+                        "settlement_id": 117,
+                        "settlement_name": "Yeni Corat",
+                        "district_id": 77
+                    }, 
+                    {
+                        "settlement_id": 118,
+                        "settlement_name": "Zağulba",
+                        "district_id": 77
+                    }
+                ]
+            }, 
+            {
+                "district_id": 78,
+                "district_name": "Binəqədi",
+                "city_id": 8,
+                "settlements":[ 
+                    {
+                        "settlement_id": 119,
+                        "settlement_name": "2-ci Alatava",
+                        "district_id": 78
+                    }, 
+                    {
+                        "settlement_id": 120,
+                        "settlement_name": "28 May",
+                        "district_id": 78
+                    }, 
+                    {
+                        "settlement_id": 121,
+                        "settlement_name": "6-cı mikrorayon",
+                        "district_id": 78
+                    }, 
+                    {
+                        "settlement_id": 122,
+                        "settlement_name": "7-ci mikrorayon",
+                        "district_id": 78
+                    }, 
+                    {
+                        "settlement_id": 123,
+                        "settlement_name": "8-ci mikrorayon",
+                        "district_id": 78
+                    }, 
+                    {
+                        "settlement_id": 124,
+                        "settlement_name": "9-cu mikrorayon",
+                        "district_id": 78
+                    }, 
+                    {
+                        "settlement_id": 125,
+                        "settlement_name": "Biləcəri",
+                        "district_id": 78
+                    },
+                    {
+                        "settlement_id": 126,
+                        "settlement_name": "Binəqədi",
+                        "district_id": 78
+                    },
+                    {
+                        "settlement_id": 127,
+                        "settlement_name": "Xocəsən",
+                        "district_id": 78
+                    },
+                    {
+                        "settlement_id": 128,
+                        "settlement_name": "Xutor",
+                        "district_id": 78
+                    },
+                    {
+                        "settlement_id": 129,
+                        "settlement_name": "M.Ə.Rəsulzadə",
+                        "district_id": 78
+                    },
+                    {
+                        "settlement_id": 130,
+                        "settlement_name": "Sulutəpə",
+                        "district_id": 78
+                    }
+                ]
+            }, 
+            {
+                "district_id": 79,
+                "district_name": "Xətai",
+                "city_id": 8,
+                "settlements":[ 
+                    {
+                        "settlement_id": 131,
+                        "settlement_name": "Ağ şəhər",
+                        "district_id": 79
+                    },
+                    {
+                        "settlement_id": 132,
+                        "settlement_name": "Əhmədli",
+                        "district_id": 79
+                    },
+                    {
+                        "settlement_id": 133,
+                        "settlement_name": "Həzi Aslanov",
+                        "district_id": 79
+                    },
+                    {
+                        "settlement_id": 134,
+                        "settlement_name": "Köhnə Günəşli",
+                        "district_id": 79
+                    },
+                    {
+                        "settlement_id": 135,
+                        "settlement_name": "NZS",
+                        "district_id": 79
+                    }
+                ]
+            }, 
+            {
+                "district_id": 80,
+                "district_name": "Xəzər",
+                "city_id": 8,
+                "settlements":[ 
+                    {
+                        "settlement_id": 136,
+                        "settlement_name": "Binə",
+                        "district_id": 80
+                    },
+                    {
+                        "settlement_id": 137,
+                        "settlement_name": "Buzovna",
+                        "district_id": 80
+                    },
+                    {
+                        "settlement_id": 138,
+                        "settlement_name": "Dübəndi",
+                        "district_id": 80
+                    },
+                    {
+                        "settlement_id": 139,
+                        "settlement_name": "Gürgən",
+                        "district_id": 80
+                    },
+                    {
+                        "settlement_id": 140,
+                        "settlement_name": "Qala",
+                        "district_id": 80
+                    },
+                    {
+                        "settlement_id": 141,
+                        "settlement_name": "Mərdəkan",
+                        "district_id": 80
+                    },
+                    {
+                        "settlement_id": 142,
+                        "settlement_name": "Şağan",
+                        "district_id": 80
+                    },
+                    {
+                        "settlement_id": 143,
+                        "settlement_name": "Şimal DRES",
+                        "district_id": 80
+                    },
+                    {
+                        "settlement_id": 144,
+                        "settlement_name": "Şüvəlan",
+                        "district_id": 80
+                    },
+                    {
+                        "settlement_id": 145,
+                        "settlement_name": "Türkan",
+                        "district_id": 80
+                    },
+                    {
+                        "settlement_id": 146,
+                        "settlement_name": "Zirə",
+                        "district_id": 80
+                    }
+                ]
+            }, 
+            {
+                "district_id": 81,
+                "district_name": "Qaradağ",
+                "city_id": 8,
+                "settlements":[ 
+                    {
+                        "settlement_id": 147,
+                        "settlement_name": "Ələt",
+                        "district_id": 81
+                    },
+                    {
+                        "settlement_id": 148,
+                        "settlement_name": "Qızıldaş",
+                        "district_id": 81
+                    },
+                    {
+                        "settlement_id": 135,
+                        "settlement_name": "Qobustan",
+                        "district_id": 81
+                    },
+                    {
+                        "settlement_id": 149,
+                        "settlement_name": "Löbbatan",
+                        "district_id": 81
+                    },
+                    {
+                        "settlement_id": 150,
+                        "settlement_name": "Müşfiqabad",
+                        "district_id": 81
+                    },
+                    {
+                        "settlement_id": 151,
+                        "settlement_name": "Puta",
+                        "district_id": 81
+                    },
+                    {
+                        "settlement_id": 152,
+                        "settlement_name": "Sahil",
+                        "district_id": 81
+                    },
+                    {
+                        "settlement_id": 153,
+                        "settlement_name": "Səngəçal",
+                        "district_id": 81
+                    },
+                    {
+                        "settlement_id": 154,
+                        "settlement_name": "Şubani",
+                        "district_id": 81
+                    }
+                ]
+            }, 
+            {
+                "district_id": 82,
+                "district_name": "Nərimanov",
+                "city_id": 8,
+                "settlements":[ 
+                    {
+                        "settlement_id": 155,
+                        "settlement_name": "Böyük Şor",
+                        "district_id": 82
+                    }
+                ]
+            }, 
+            {
+                "district_id": 83,
+                "district_name": "Nəsimi",
+                "city_id": 8,
+                "settlements":[ 
+                    {
+                        "settlement_id": 156,
+                        "settlement_name": "1-ci mikrarayon",
+                        "district_id": 83
+                    },
+                    {
+                        "settlement_id": 157,
+                        "settlement_name": "2-ci mikrarayon",
+                        "district_id": 83
+                    },
+                    {
+                        "settlement_id": 158,
+                        "settlement_name": "3-cü mikrarayon",
+                        "district_id": 83
+                    },
+                    {
+                        "settlement_id": 159,
+                        "settlement_name": "4-cü mikrarayon",
+                        "district_id": 83
+                    },
+                    {
+                        "settlement_id": 160,
+                        "settlement_name": "5-ci mikrarayon",
+                        "district_id": 83
+                    },
+                    {
+                        "settlement_id": 161,
+                        "settlement_name": "Kubinka",
+                        "district_id": 83
+                    }
+                ]
+            }, 
+            {
+                "district_id": 84,
+                "district_name": "Nizami",
+                "city_id": 8,
+                "settlements":[ 
+                    {
+                        "settlement_id": 162,
+                        "settlement_name": "8-ci kilometr",
+                        "district_id": 84
+                    },
+                    {
+                        "settlement_id": 163,
+                        "settlement_name": "Keşlə",
+                        "district_id": 84
+                    }
+                ]
+            }, 
+            {
+                "district_id": 85,
+                "district_name": "Pirallahı",
+                "city_id": 8,
+                "settlements":[]
+            }, 
+            {
+                "district_id": 86,
+                "district_name": "Sabunçu",
+                "city_id": 8,
+                "settlements":[ 
+                    {
+                        "settlement_id": 164,
+                        "settlement_name": "Albalılıq",
+                        "district_id": 86
+                    },
+                    {
+                        "settlement_id": 165,
+                        "settlement_name": "Bakıxanov",
+                        "district_id": 86
+                    },
+                    {
+                        "settlement_id": 166,
+                        "settlement_name": "Balaxanı",
+                        "district_id": 86
+                    },
+                    {
+                        "settlement_id": 167,
+                        "settlement_name": "Bilgəh",
+                        "district_id": 86
+                    },
+                    {
+                        "settlement_id": 168,
+                        "settlement_name": "Kürdəxanı",
+                        "district_id": 86
+                    },
+                    {
+                        "settlement_id": 169,
+                        "settlement_name": "Maştağa",
+                        "district_id": 86
+                    },
+                    {
+                        "settlement_id": 170,
+                        "settlement_name": "Nardaran",
+                        "district_id": 86
+                    },
+                    {
+                        "settlement_id": 171,
+                        "settlement_name": "Pirşağı",
+                        "district_id": 86
+                    },
+                    {
+                        "settlement_id": 172,
+                        "settlement_name": "Ramana",
+                        "district_id": 86
+                    },
+                    {
+                        "settlement_id": 173,
+                        "settlement_name": "Sabunçu",
+                        "district_id": 86
+                    },
+                    {
+                        "settlement_id": 174,
+                        "settlement_name": "Savalan",
+                        "district_id": 86
+                    },
+                    {
+                        "settlement_id": 175,
+                        "settlement_name": "Yeni Balaxanı",
+                        "district_id": 86
+                    },
+                    {
+                        "settlement_id": 176,
+                        "settlement_name": "Yeni Ramana",
+                        "district_id": 86
+                    },
+                    {
+                        "settlement_id": 177,
+                        "settlement_name": "Zabrat",
+                        "district_id": 86
+                    }
+                ]
+            }, 
+            {
+                "district_id": 87,
+                "district_name": "Səbail",
+                "city_id": 8,
+                "settlements":[ 
+                    {
+                        "settlement_id": 178,
+                        "settlement_name": "20-ci sahə",
+                        "district_id": 87
+                    },
+                    {
+                        "settlement_id": 179,
+                        "settlement_name": "Badamdar",
+                        "district_id": 87
+                    },
+                    {
+                        "settlement_id": 180,
+                        "settlement_name": "Bayıl",
+                        "district_id": 87
+                    },
+                    {
+                        "settlement_id": 181,
+                        "settlement_name": "Bibi Heybət",
+                        "district_id": 87
+                    },
+                    {
+                        "settlement_id": 182,
+                        "settlement_name": "Şıxov",
+                        "district_id": 87
+                    }
+                ]
+            }, 
+            {
+                "district_id": 88,
+                "district_name": "Suraxanı",
+                "city_id": 8,
+                "settlements":[ 
+                    {
+                        "settlement_id": 183,
+                        "settlement_name": "Bahar",
+                        "district_id": 88
+                    },
+                    {
+                        "settlement_id": 184,
+                        "settlement_name": "Bülbülə",
+                        "district_id": 88
+                    },
+                    {
+                        "settlement_id": 185,
+                        "settlement_name": "Dədə Qorqud",
+                        "district_id": 88
+                    },
+                    {
+                        "settlement_id": 186,
+                        "settlement_name": "Əmircan",
+                        "district_id": 88
+                    },
+                    {
+                        "settlement_id": 187,
+                        "settlement_name": "Günəşli",
+                        "district_id": 88
+                    },
+                    {
+                        "settlement_id": 188,
+                        "settlement_name": "Hövsan",
+                        "district_id": 88
+                    },
+                    {
+                        "settlement_id": 189,
+                        "settlement_name": "Qaraçuxur",
+                        "district_id": 88
+                    },
+                    {
+                        "settlement_id": 190,
+                        "settlement_name": "Massiv A",
+                        "district_id": 88
+                    },
+                    {
+                        "settlement_id": 191,
+                        "settlement_name": "Massiv B",
+                        "district_id": 88
+                    },
+                    {
+                        "settlement_id": 192,
+                        "settlement_name": "Massiv D",
+                        "district_id": 88
+                    },
+                    {
+                        "settlement_id": 193,
+                        "settlement_name": "Massiv G",
+                        "district_id": 88
+                    },
+                    {
+                        "settlement_id": 194,
+                        "settlement_name": "Massiv V",
+                        "district_id": 88
+                    },
+                    {
+                        "settlement_id": 195,
+                        "settlement_name": "Suraxanı",
+                        "district_id": 88
+                    },
+                    {
+                        "settlement_id": 196,
+                        "settlement_name": "Şərq",
+                        "district_id": 88
+                    },
+                    {
+                        "settlement_id": 197,
+                        "settlement_name": "Yeni Günəşli",
+                        "district_id": 88
+                    },
+                    {
+                        "settlement_id": 198,
+                        "settlement_name": "Yeni Suraxanı",
+                        "district_id": 88
+                    },
+                    {
+                        "settlement_id": 199,
+                        "settlement_name": "Zığ",
+                        "district_id": 88
+                    }
+                ]
+            }, 
+            {
+                "district_id": 89,
+                "district_name": "Yasamal",
+                "city_id": 8,
+                "settlements":[ 
+                    {
+                        "settlement_id": 200,
+                        "settlement_name": "Yasamal",
+                        "district_id": 89
+                    },
+                    {
+                        "settlement_id": 201,
+                        "settlement_name": "Yeni Yasamal",
+                        "district_id": 89
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "city_id": 9,
+        "city_name": "Balakən",        
+        "districts":[]
+    },
+    {
+        "city_id": 10,
+        "city_name": "Beyləqan",        
+        "districts":[]
+    },
+    {
+        "city_id": 11,
+        "city_name": "Biləsuvar",        
+        "districts":[]
+    },
+    {
+        "city_id": 12,
+        "city_name": "Bərdə",        
+        "districts":[]
+    },
+    {
+        "city_id": 13,
+        "city_name": "Culfa",        
+        "districts":[]
+    },
+    {
+        "city_id": 14,
+        "city_name": "Cəbrayıl",        
+        "districts":[]
+    },
+    {
+        "city_id": 15,
+        "city_name": "Cəlilabad",        
+        "districts":[]
+    },
+    {
+        "city_id": 16,
+        "city_name": "Daşkəsən",        
+        "districts":[]
+    },
+    {
+        "city_id": 17,
+        "city_name": "Füzuli",        
+        "districts":[]
+    },
+    {
+        "city_id": 18,
+        "city_name": "Goranboy",        
+        "districts":[]
+    },
+    {
+        "city_id": 19,
+        "city_name": "Göyçay",        
+        "districts":[]
+    },
+    {
+        "city_id": 20,
+        "city_name": "Göygöl",        
+        "districts":[]
+    },
+    {
+        "city_id": 21,
+        "city_name": "Gədəbəy",        
+        "districts":[
+            {
+                "district_id": 90,
+                "district_name": "Gədəbəy",
+                "city_id": 21,
+                "settlements":[]
+            }
+        ]
+    },
+    {
+        "city_id": 22,
+        "city_name": "Gəncə",        
+        "districts":[]
+    },
+    {
+        "city_id": 23,
+        "city_name": "Hacıqabul",        
+        "districts":[]
+    },
+    {
+        "city_id": 24,
+        "city_name": "İmişli",        
+        "districts":[]
+    },
+    {
+        "city_id": 25,
+        "city_name": "İsmayıllı",        
+        "districts":[]
+    },
+    {
+        "city_id": 26,
+        "city_name": "Kürdəmir",        
+        "districts":[]
+    },
+    {
+        "city_id": 27,
+        "city_name": "Kəlbəcər",        
+        "districts":[]
+    },
+    {
+        "city_id": 28,
+        "city_name": "Kəngərli",        
+        "districts":[]
+    },
+    {
+        "city_id": 29,
+        "city_name": "Laçın",        
+        "districts":[]
+    },
+    {
+        "city_id": 30,
+        "city_name": "Lerik",        
+        "districts":[]
+    },
+    {
+        "city_id": 31,
+        "city_name": "Lənkəran",        
+        "districts":[]
+    },
+    {
+        "city_id": 32,
+        "city_name": "Masallı",        
+        "districts":[]
+    },
+    {
+        "city_id": 33,
+        "city_name": "Mingəçevir",        
+        "districts":[]
+    },
+    {
+        "city_id": 34,
+        "city_name": "Naftalan",        
+        "districts":[]
+    },
+    {
+        "city_id": 35,
+        "city_name": "Naxçıvan",        
+        "districts":[
+            {
+                "district_id": 93,
+                "district_name": "Babək",
+                "city_id": 35,
+                "settlements":[]
+            }, 
+            {
+                "district_id": 94,
+                "district_name": "Culfa",
+                "city_id": 35,
+                "settlements":[]
+            }, 
+            {
+                "district_id": 95,
+                "district_name": "Qıvraq",
+                "city_id": 35,
+                "settlements":[]
+            }, 
+            {
+                "district_id": 96,
+                "district_name": "Naxçıvan",
+                "city_id": 35,
+                "settlements":[]
+            }, 
+            {
+                "district_id": 97,
+                "district_name": "Ordubad",
+                "city_id": 35,
+                "settlements":[]
+            }, 
+            {
+                "district_id": 98,
+                "district_name": "Sədərək",
+                "city_id": 35,
+                "settlements":[]
+            }, 
+            {
+                "district_id": 99,
+                "district_name": "Şahbuz",
+                "city_id": 35,
+                "settlements":[]
+            }, 
+            {
+                "district_id": 100,
+                "district_name": "Şərur",
+                "city_id": 35,
+                "settlements":[]
+            }
+        ]
+    },
+    {
+        "city_id": 36,
+        "city_name": "Neftçala",        
+        "districts":[]
+    },
+    {
+        "city_id": 37,
+        "city_name": "Oğuz",        
+        "districts":[]
+    },
+    {
+        "city_id": 38,
+        "city_name": "Ordubad",        
+        "districts":[]
+    },
+    {
+        "city_id": 39,
+        "city_name": "Qax",        
+        "districts":[]
+    },
+    {
+        "city_id": 40,
+        "city_name": "Qazax",        
+        "districts":[]
+    },
+    {
+        "city_id": 41,
+        "city_name": "Qobustan",        
+        "districts":[]
+    },
+    {
+        "city_id": 42,
+        "city_name": "Quba",        
+        "districts":[]
+    },
+    {
+        "city_id": 43,
+        "city_name": "Qubadlı",        
+        "districts":[]
+    },
+    {
+        "city_id": 44,
+        "city_name": "Qusar",        
+        "districts":[]
+    },
+    {
+        "city_id": 45,
+        "city_name": "Qəbələ",        
+        "districts":[]
+    },
+    {
+        "city_id": 46,
+        "city_name": "Saatlı",        
+        "districts":[]
+    },
+    {
+        "city_id": 47,
+        "city_name": "Sabirabad",        
+        "districts":[]
+    },
+    {
+        "city_id": 48,
+        "city_name": "Şabran",        
+        "districts":[]
+    },
+    {
+        "city_id": 49,
+        "city_name": "Şahbuz",        
+        "districts":[]
+    },
+    {
+        "city_id": 50,
+        "city_name": "Salyan",        
+        "districts":[]
+    },
+    {
+        "city_id": 51,
+        "city_name": "Şamaxı",        
+        "districts":[]
+    },
+    {
+        "city_id": 52,
+        "city_name": "Samux",        
+        "districts":[]
+    },
+    {
+        "city_id": 53,
+        "city_name": "Şirvan",        
+        "districts":[]
+    },
+    {
+        "city_id": 54,
+        "city_name": "Siyəzən",        
+        "districts":[]
+    },
+    {
+        "city_id": 55,
+        "city_name": "Sumqayıt",        
+        "districts":[]
+    },
+    {
+        "city_id": 56,
+        "city_name": "Şuşa",        
+        "districts":[]
+    },
+    {
+        "city_id": 57,
+        "city_name": "Sədərək",        
+        "districts":[]
+    },
+    {
+        "city_id": 58,
+        "city_name": "Şəki",        
+        "districts":[]
+    },
+    {
+        "city_id": 59,
+        "city_name": "Şəmkir",        
+        "districts":[]
+    },
+    {
+        "city_id": 60,
+        "city_name": "Şərur",        
+        "districts":[]
+    },
+    {
+        "city_id": 61,
+        "city_name": "Tovuz",        
+        "districts":[]
+    },
+    {
+        "city_id": 62,
+        "city_name": "Tərtər",        
+        "districts":[]
+    },
+    {
+        "city_id": 63,
+        "city_name": "Ucar",        
+        "districts":[]
+    },
+    {
+        "city_id": 64,
+        "city_name": "Xaçmaz",        
+        "districts":[
+            {
+                "district_id": 91,
+                "district_name": "Xaçmaz",
+                "city_id": 64,
+                "settlements":[]
+            }, 
+            {
+                "district_id": 92,
+                "district_name": "Nabran",
+                "city_id": 64,
+                "settlements":[]
+            }
+        ]
+    },
+    {
+        "city_id": 65,
+        "city_name": "Xırdalan",        
+        "districts":[]
+    },
+    {
+        "city_id": 66,
+        "city_name": "Xızı",        
+        "districts":[]
+    },
+    {
+        "city_id": 67,
+        "city_name": "Xocalı",        
+        "districts":[]
+    },
+    {
+        "city_id": 68,
+        "city_name": "Xocavənd",        
+        "districts":[]
+    },
+    {
+        "city_id": 69,
+        "city_name": "Yardımlı",        
+        "districts":[]
+    },
+    {
+        "city_id": 70,
+        "city_name": "Yevlax",        
+        "districts":[]
+    },
+    {
+        "city_id": 71,
+        "city_name": "Zaqatala",        
+        "districts":[]
+    },
+    {
+        "city_id": 72,
+        "city_name": "Zəngilan",        
+        "districts":[]
+    },
+    {
+        "city_id": 73,
+        "city_name": "Zərdab",        
+        "districts":[]
+    }
+]
