@@ -3,7 +3,8 @@ const companyData = [
     name: "Elshadoglu",
     company: "Elshadoglu MMC",
     phone: "+994558215673",
-    email: "elshadoglu@gmail.com",
+    email: "info@elshadoglu.com",
+    address: "Xırdalan Azərbaycan, Heydər Əliyev prosp",
     socials: [
       {
         icon: "fab fa-facebook-f list-inline-item",

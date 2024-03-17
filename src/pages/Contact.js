@@ -1,6 +1,8 @@
 import React from "react";
 import Breadcrumb from "../components/Breadcrumb";
 
+import companyData from "../data/Company";
+
 const Contact = () => {
   return (
     <section className="bg-light py-3 py-md-5">
@@ -8,11 +10,11 @@ const Contact = () => {
         <Breadcrumb current={"Bizimlə əlaqə"} />
         <div className="row justify-content-md-center">
           <div className="col-12 col-md-10 col-lg-8 col-xl-7 col-xxl-6">
-            <h2 className="mb-4 display-5 text-center">Contact</h2>
+            <h2 className="mb-4 display-5 text-center">Əlaqə</h2>
             <p className="text-secondary mb-5 text-center">
-              The best way to contact us is to use our contact form below.
-              Please fill out all of the required fields and we will get back to
-              you as soon as possible.
+              Bizimlə əlaqə saxlamağın ən yaxşı yolu aşağıdakı əlaqə formamızdan
+              istifadə etməkdir. Zəhmət olmasa, bütün tələb olunan sahələri
+              doldurun və biz ən qısa zamanda sizinlə əlaqə saxlayacağıq.
             </p>
             <hr className="w-50 mx-auto mb-5 mb-xl-9 border-dark-subtle" />
           </div>
@@ -34,7 +36,7 @@ const Contact = () => {
                 <div className="row gy-4 gy-xl-5 p-4 p-xl-5">
                   <div className="col-12">
                     <label htmlFor="fullname" className="form-label">
-                      Full Name <span className="text-danger">*</span>
+                      Adınız <span className="text-danger">*</span>
                     </label>
                     <input
                       type="text"
@@ -46,7 +48,7 @@ const Contact = () => {
                   </div>
                   <div className="col-12 col-md-6">
                     <label htmlFor="email" className="form-label">
-                      Email <span className="text-danger">*</span>
+                      E-poçt <span className="text-danger">*</span>
                     </label>
                     <div className="input-group">
                       <span className="input-group-text">
@@ -72,7 +74,7 @@ const Contact = () => {
                   </div>
                   <div className="col-12 col-md-6">
                     <label htmlFor="phone" className="form-label">
-                      Phone Number
+                      Telefon
                     </label>
                     <div className="input-group">
                       <span className="input-group-text">
@@ -97,20 +99,20 @@ const Contact = () => {
                   </div>
                   <div className="col-12">
                     <label htmlFor="message" className="form-label">
-                      Message <span className="text-danger">*</span>
+                      Əlavə məlumat <span className="text-danger">*</span>
                     </label>
                     <textarea
                       className="form-control"
                       id="message"
                       name="message"
-                      rows="3"
+                      rows="7"
                       required
                     ></textarea>
                   </div>
                   <div className="col-12">
                     <div className="d-grid">
                       <button className="btn btn-primary btn-lg" type="submit">
-                        Submit
+                        Göndər
                       </button>
                     </div>
                   </div>
@@ -134,8 +136,7 @@ const Contact = () => {
               </div>
               <div className="text">
                 <p>
-                  <span>Address:</span> 198 West 21th Street, Suite 721 New York
-                  NY 10016
+                  <span>Ünvan:</span> {companyData[0].address}
                 </p>
               </div>
             </div>
@@ -154,8 +155,13 @@ const Contact = () => {
               </div>
               <div className="text">
                 <p>
-                  <span>Phone:</span>{" "}
-                  <a href="tel://1234567920">+ 1235 2355 98</a>
+                  <span>Telefon:</span>{" "}
+                  <a
+                    href={`tel://${companyData[0].phone}`}
+                    className="text-decoration-none"
+                  >
+                    {companyData[0].phone}
+                  </a>
                 </p>
               </div>
             </div>
@@ -174,8 +180,13 @@ const Contact = () => {
               </div>
               <div className="text">
                 <p>
-                  <span>Email:</span>{" "}
-                  <a href="mailto:info@yoursite.com">info@yoursite.com</a>
+                  <span>E-poçt:</span>{" "}
+                  <a
+                    href={`mailto:${companyData[0].email}`}
+                    className="text-decoration-none"
+                  >
+                    {companyData[0].email}
+                  </a>
                 </p>
               </div>
             </div>

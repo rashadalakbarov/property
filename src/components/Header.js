@@ -57,9 +57,9 @@ const Header = () => {
                   Search
                 </button>
               </form>
-              <a href="#" className="btn btn-success mx-3">
+              <Link to={"/new"} className="btn btn-success mx-3">
                 <i className="fa-solid fa-plus me-1"></i> Elan yerləşdir
-              </a>
+              </Link>
               <ul className="list-unstyled mb-0">
                 <li className="nav-item dropdown text-decoration-none ms-2">
                   <a
